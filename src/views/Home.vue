@@ -2,12 +2,12 @@
   <div>
     <div class="home" ref="hero">
       <div class="title">
-        <div>Chad Holmes</div><div class="subtitle">[ Software Engineering && Web Development ]</div>
+        <div>Chad Holmes</div><div class="subtitle">Software Engineering & Web Developmentå</div>
       </div>
     </div>
     <div class="about-wrapper">
       <div class="about-me">
-        <h2 class="about-header">&gt; About Me</h2>
+        <h2 class="about-header">About Me</h2>
         <p>I am currently a Sophomore in the Computer Science: Software Engineering program at Brigham Young University.
           I am actively seeking to apply the <strong>technical skills</strong> and <strong>theoretical knowledge</strong>, that I have diligently developed,
           to the professional world.</p>
