@@ -185,6 +185,7 @@ export default {
   .about-me{
     display: flex;
     flex-direction: column;
+    padding: 0;
     width: 80%;
     font-size: 16px;
     margin-left: auto;
