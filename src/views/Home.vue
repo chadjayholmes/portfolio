@@ -11,7 +11,7 @@
         <p>I am currently a Sophomore in the Computer Science: Software Engineering program at Brigham Young University.
           I am actively seeking to apply the <strong>technical skills</strong> and <strong>theoretical knowledge</strong>, that I have diligently developed,
           to the professional world.</p>
-        <p>Pictured to the right are the languages and technologies that I have developed a proficiency in.
+        <p>Pictured to the right (or below on mobile #responivedesign) are the languages and technologies that I have developed a proficiency in.
           Despite this finite list, I like to say that I consider myself to be <strong>language agnostic</strong>, as I see the more important skill
           being the ability to adapt and learn any new technologies or languages as the need presents itself.
           To really get to know my skills and abilities, take a look at my projects or reach out directly and I'll be happy to chat with you.</p>
@@ -131,7 +131,7 @@ export default {
 
 .about-me{
   padding-left: 72px;
-  padding-right: 20%;
+  padding-right: 100px;
   width: 60%;
   text-align: left;
   line-height: 2;
@@ -158,4 +158,45 @@ export default {
   margin-bottom: 30px;
 }
 
+@media only screen and (max-width: 1090px){
+  .about-wrapper{
+    flex-direction: column;
+  }
+
+  .title{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    background-color: rgba(0,0,0,0.3);
+    font-size: 48px;
+  }
+
+  .subtitle{
+    font-size: 24px;
+  }
+
+  .about-header{
+    font-size: 24px;
+  }
+
+  .about-me{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .skills-wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+  }
+
+}
 </style>
