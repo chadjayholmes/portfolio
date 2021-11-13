@@ -2,7 +2,7 @@
   <div>
     <div class="home" ref="hero">
       <div class="title">
-        <div>Chad Holmes</div><div class="subtitle">Software Engineering & Web Developmentå</div>
+        <div>Chad Holmes</div><div class="subtitle">Software Engineering & Web Development</div>
       </div>
     </div>
     <div class="about-wrapper">
