@@ -2,7 +2,6 @@
   <div>
     <Nav class="nav"/>
     <Banner class="banner"></Banner>
-    <AboutRow/>
   </div>
 </template>
 
@@ -10,7 +9,6 @@
 import Nav from "@/components/Nav"
 import Banner from "@/components/Banner";
 //import ProjectsRow from "@/components/ProjectsRow";
-import AboutRow from "@/components/AboutRow";
 
 export default {
   data() {
@@ -25,7 +23,6 @@ export default {
   },
   name: 'Home',
   components: {
-    AboutRow,
     //ProjectsRow,
     Banner,
     Nav
@@ -35,6 +32,9 @@ export default {
 
 <style scoped>
 
+template{
+  background: #000000;
+}
 
 .banner{
   padding-bottom: 25px;

@@ -1,13 +1,13 @@
 <template>
   <div>
-    <Slide right>
-      <a id="home" href="#">
+    <Slide width="300" right>
+      <a id="home" href="/">
         <span>Home</span>
       </a>
       <a id="Projects" href="#">
         <span>Projects</span>
       </a>
-      <a id="Experience" href="#">
+      <a id="Experience" href="experience">
         <span>Experience</span>
       </a>
     </Slide>
@@ -37,7 +37,7 @@ export default {
 <style>
 
 .bm-burger-bars {
-  background-color: white;
+  background-color: #686868;
 }
 
 </style>
