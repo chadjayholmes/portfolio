@@ -118,7 +118,7 @@ path{
 @media only screen and (max-width: 1090px){
 
   #title{
-    width: 400px;
+    width: 350px;
   }
 
   .title{

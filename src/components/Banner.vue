@@ -147,11 +147,11 @@ a:hover{
     margin-right: auto;
     margin-left: auto;
     align-items: center;
-    font-size: 48px;
+    font-size: 44px;
   }
 
   #title{
-    width: 400px;
+    width: 350px;
   }
 
   .subtitle{
