@@ -20,7 +20,7 @@
         </li>
       </ul>
     </div>
-    <div class="image animate__animated animate__zoomInDown animate__delay-2s">
+    <div class="image animate__animated animate__zoomInDown animate__delay-3s">
       <img class="logo" src="../assets/ukg.svg" alt="UKG Logo" height="150px" width="150px"/>
     </div>
   </div>
@@ -36,9 +36,6 @@ export default {
 
 <style scoped>
 
-li{
-  font-size: 16px;
-}
 
 .image{
   display: block;
@@ -49,13 +46,13 @@ li{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  background: linear-gradient(70deg, #282828 85%, #fa7c30 85%);
+  background: linear-gradient(110deg, #282828 85%, #fa7c30 85%);
   width: 80%;
   margin-left: auto;
   margin-right: auto;
   border-radius: 20px;
   margin-top: 20px;
-  box-shadow: 0px 0px 80px 10px black;
+  box-shadow: 0px 0px 80px 20px black;
 }
 
 .about-header{
@@ -80,9 +77,7 @@ li{
   margin-top: auto;
   margin-bottom: auto;
   border-radius: 10px;
-
 }
-
 
 
 .skills-wrapper{
@@ -117,10 +112,10 @@ li{
 
   .image{
     width: 30%;
-
-    margin-right: auto;
     margin-left: auto;
+    margin-right: auto;
   }
+
   .about-wrapper{
     flex-direction: column;
   }
@@ -134,7 +129,6 @@ li{
     flex-direction: column;
     padding: 0;
     width: 80%;
-    font-size: 18px;
     margin-left: auto;
     margin-right: auto;
   }

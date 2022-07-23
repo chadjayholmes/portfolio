@@ -20,7 +20,7 @@
         </li>
       </ul>
     </div>
-    <div class="image animate__animated animate__zoomInDown animate__delay-3s">
+    <div class="image animate__animated animate__zoomInDown animate__delay-4s">
       <img class="logo" src="../assets/canvas.svg" alt="Canvas Logo" height="150px" width="150px"/>
     </div>
   </div>

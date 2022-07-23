@@ -23,7 +23,7 @@
         </li>
       </ul>
     </div>
-    <div class="image animate__animated animate__zoomInDown animate__delay-1s">
+    <div class="image animate__animated animate__zoomInDown animate__delay-2s">
       <img class="logo" src="../assets/byu.svg" alt="BYU Logo" height="150px" width="150px"/>
     </div>
   </div>

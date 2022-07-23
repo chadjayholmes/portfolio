@@ -4,7 +4,7 @@
       <a id="home" href="/">
         <span>Home</span>
       </a>
-      <a id="Projects" href="#">
+      <a id="Projects" target="_blank" href="https://pomodoro.chadjayholmes.com">
         <span>Projects</span>
       </a>
       <a id="Experience" href="experience">

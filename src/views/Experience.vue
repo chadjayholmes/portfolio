@@ -29,6 +29,9 @@
       </svg>
     </div>
     <Tilt :options="preferences.options">
+      <AboutRowPattern class="chunks"></AboutRowPattern>
+    </Tilt>
+    <Tilt :options="preferences.options">
       <AboutRowSchool class="chunks"></AboutRowSchool>
     </Tilt>
     <Tilt :options="preferences.options">
@@ -42,11 +45,13 @@
 
 <script>
 import Nav from "@/components/Nav";
+import AboutRowPattern from "@/components/AboutRowPattern.vue";
 import AboutRowSchool from "@/components/AboutRowSchool";
 import AboutRowInstructure from "@/components/AboutRowInstructure";
 import AboutRowUKG from "@/components/AboutRowUKG";
 import Tilt from 'vanilla-tilt-vue';
 import anime from 'animejs/lib/anime.es.js'
+
 import 'animate.css'
 
 export default {
@@ -56,6 +61,7 @@ export default {
     AboutRowSchool,
     AboutRowInstructure,
     AboutRowUKG,
+    AboutRowPattern,
     Tilt,
   },
   data() {
