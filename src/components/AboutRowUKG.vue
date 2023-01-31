@@ -4,19 +4,16 @@
       <h2 class="about-header">Specialty Support II</h2>
       <ul>
         <li>
-          Develop, run, and share SQL scripts to resolve issues in a large scale mySQL database
+          Triage and resolve customer submitted product issues via phone and email
         </li>
         <li>
-          Consult industry professionals on HRMS software best practices to improve product fluency
+          Document and track known Issues with Jira and Salestorce to assist development and other support teams
         </li>
         <li>
-          Manage support tickets through entire ticket lifecycle using a personal salesforce queue
+          Write, use and share SQL scripts to assist in the troubleshooting/debugging process
         </li>
         <li>
-          Communicate issue resolutions effectively with non-technical users via email, phone call and screen-sharing.
-        </li>
-        <li>
-          Contribute to Knowledge Base organization by highlighting trending articles
+          Consult industry professionals on HRMS software best practices to improve their understanding ofthe product
         </li>
       </ul>
     </div>

@@ -4,16 +4,16 @@
       <h2 class="about-header">Technical Support Engineer I</h2>
       <ul>
         <li>
-          API based troubleshooting - Referencing REST documentation
+          Field customer support phone calls, emails and live chats from students, teachers and system administrators
         </li>
         <li>
-          Troubleshoot technical issues in browsers, devices, and the Canvas UI to assist end-user
+          Refer to, use, and understand API documentation to aid in troubleshooting
         </li>
         <li>
-          Bug tracking and documenting via JIRA when collaborating with higher level support teams
+          Average over 100 support cases per week as a parttime agent to manage case volume
         </li>
         <li>
-          Maintain an average of 95% CSAT and 90% case resolution on the first contact to improve customer experience
+          Maintain an average of 9 5 % S A T and 9 0 % case resolution on the first contact to improve customer experience
         </li>
         <li>
           Recognized as a top 12% performer in the department for Q2 2021

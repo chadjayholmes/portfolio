@@ -1,28 +1,31 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">Software Engineer - Intern</h2>
+      <h2 class="about-header">Software Engineer</h2>
       <ul>
         <li>
-          Design, Plan and Deliver first phase of marketplace connector API microservices for greenfield SaaS project
+          Develop highly available and pertormant services in languages such as Ruby,Javascript and lypescript
         </li>
         <li>
-          Write, read, and debug code in Ruby, Typescript and Ruby on Rails daily
+          Design, plan, document and deliver MVP and model microservice in greenfield SaaS project
         </li>
         <li>
-          Perform product demos for stakeholders during development benchmarks and upon project completion
+          Participate in frequent code reviews both as reviewer and reviewe€
         </li>
         <li>
-          Implement CI/CD pipelines for API microservices using Terraform and Github Actions
+          Implement CI/CD pipelines using Terraform and Github Actions
         </li>
         <li>
-          Deploy, troubleshoot and manage AWS cloud services such as Lambda, API Gateway, DynamoDB, SSM Parameter Store
+          Deploy and manage AWS cloud resources on platforms such as Lambda, DynamoDB, ECS, RDS and Opensearch
         </li>
         <li>
-          Document system design, architecture, and product flows via Lucid software
+          Perform productdemos for stakeholders during development benchmarks and upon project completion
         </li>
         <li>
-            Participate fully in all scrum ceremonies involved in an agile development environment
+          Document system design, architecture, and workflows for training and org level visibility
+        </li>
+        <li>
+          Participate full in all scrum ceremonies involved in an agiledevelopment environment
         </li>
       </ul>
     </div>

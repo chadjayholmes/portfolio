@@ -7,6 +7,9 @@
           Advanced Object Oriented Programming - Java
         </li>
         <li>
+          Algorithm Design & Analysis - Python
+        </li>
+        <li>
           Data Structures and Discrete Structures - C++
         </li>
         <li>
@@ -19,7 +22,7 @@
           Computer Systems - C
         </li>
         <li>
-          Android Development - Java & SQLite
+          Android Development - Java
         </li>
       </ul>
     </div>
