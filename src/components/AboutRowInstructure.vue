@@ -13,7 +13,7 @@
           Average over 100 support cases per week as a parttime agent to manage case volume
         </li>
         <li>
-          Maintain an average of 9 5 % S A T and 9 0 % case resolution on the first contact to improve customer experience
+          Maintain an average of 95% CSAT and 90% case resolution on the first contact to improve customer experience
         </li>
         <li>
           Recognized as a top 12% performer in the department for Q2 2021

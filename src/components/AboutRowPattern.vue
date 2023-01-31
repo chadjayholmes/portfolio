@@ -4,13 +4,13 @@
       <h2 class="about-header">Software Engineer</h2>
       <ul>
         <li>
-          Develop highly available and pertormant services in languages such as Ruby,Javascript and lypescript
+          Develop highly available and pertormant services in languages such as Ruby,Javascript and Typescript
         </li>
         <li>
           Design, plan, document and deliver MVP and model microservice in greenfield SaaS project
         </li>
         <li>
-          Participate in frequent code reviews both as reviewer and reviewe€
+          Participate in frequent code reviews both as reviewer and reviewee
         </li>
         <li>
           Implement CI/CD pipelines using Terraform and Github Actions
@@ -19,13 +19,13 @@
           Deploy and manage AWS cloud resources on platforms such as Lambda, DynamoDB, ECS, RDS and Opensearch
         </li>
         <li>
-          Perform productdemos for stakeholders during development benchmarks and upon project completion
+          Perform product demos for stakeholders during development benchmarks and upon project completion
         </li>
         <li>
           Document system design, architecture, and workflows for training and org level visibility
         </li>
         <li>
-          Participate full in all scrum ceremonies involved in an agiledevelopment environment
+          Participate full in all scrum ceremonies involved in an agile development environment
         </li>
       </ul>
     </div>
