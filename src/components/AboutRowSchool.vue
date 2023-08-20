@@ -1,7 +1,7 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">BS Computer Science - Software Engineering</h2>
+      <h2 class="about-header">BS Computer Science - Cum Laude</h2>
       <ul>
         <li>
           Advanced Object Oriented Programming - Java

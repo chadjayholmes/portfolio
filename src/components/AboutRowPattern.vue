@@ -1,13 +1,13 @@
 <template>
   <div class="about-wrapper">
     <div class="about-me">
-      <h2 class="about-header">Software Engineer</h2>
+      <h2 class="about-header">Software Engineer -> Software Engineer II</h2>
       <ul>
         <li>
-          Develop highly available and performant services in languages such as Ruby,Javascript and Typescript
+          Develop highly available and performant services in languages such as Ruby, Javascript and Typescript
         </li>
         <li>
-          Design, plan, document and deliver MVP and model microservice in greenfield SaaS project
+          Design, plan, document and deliver a new microservice in greenfield SaaS project
         </li>
         <li>
           Participate in frequent code reviews both as reviewer and reviewee
@@ -23,9 +23,6 @@
         </li>
         <li>
           Document system design, architecture, and workflows for training and org level visibility
-        </li>
-        <li>
-          Participate full in all scrum ceremonies involved in an agile development environment
         </li>
       </ul>
     </div>
