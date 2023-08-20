@@ -4,7 +4,7 @@
       <h2 class="about-header">Software Engineer</h2>
       <ul>
         <li>
-          Develop highly available and pertormant services in languages such as Ruby,Javascript and Typescript
+          Develop highly available and performant services in languages such as Ruby,Javascript and Typescript
         </li>
         <li>
           Design, plan, document and deliver MVP and model microservice in greenfield SaaS project
